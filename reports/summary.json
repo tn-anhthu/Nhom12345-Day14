@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "version": "Agent_V2_Optimized",
+    "total": 85,
+    "timestamp": "2026-06-16 16:32:08",
+    "elapsed_s": 44.58
+  },
+  "metrics": {
+    "avg_score": 1.0176,
+    "hit_rate": 0.7065,
+    "agreement_rate": 0.1294,
+    "pass_rate": 0.0
+  },
+  "regression": {
+    "v1_avg_score": 1.0235,
+    "delta": -0.0059
+  },
+  "cost": {
+    "total_input_tokens": 93484,
+    "total_output_tokens": 11280,
+    "estimated_cost_usd": 0.020791,
+    "cost_per_eval_usd": 6.685e-05
+  },
+  "thresholds": {
+    "min_avg_score": 3.5,
+    "min_hit_rate": 0.8,
+    "min_agreement_rate": 0.7,
+    "max_score_regression": -0.2
+  }
+}

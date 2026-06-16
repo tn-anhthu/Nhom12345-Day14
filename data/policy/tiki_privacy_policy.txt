@@ -1,0 +1,94 @@
+# Chính Sách Bảo Mật Thông Tin Cá Nhân - Tiki
+
+**Nguồn:** https://tiki.vn/thong-tin/privacy-policy  
+**Công ty:** Công ty Cổ phần Ti Ki  
+**ĐKKD:** 0309532909 – Sở Kế hoạch và Đầu tư TP. Hồ Chí Minh  
+**Địa chỉ:** Tòa nhà Viettel, Số 285, Cách Mạng Tháng 8, P.12, Q.10, TP. HCM  
+**Hotline:** 19006035  
+**Email:** hotro@tiki.vn  
+**Hiệu lực:** 11/11/2022
+
+---
+
+## 1. Sự Chấp Thuận
+
+Bằng việc cung cấp thông tin cá nhân cho Tiki, người dùng đồng ý với các điều khoản bảo mật. Công ty bảo lưu quyền sửa đổi chính sách vào bất kỳ thời điểm nào và khuyến khích khách hàng thường xuyên xem lại các cập nhật.
+
+---
+
+## 2. Mục Đích Thu Thập
+
+Thông tin cá nhân được thu thập cho các mục đích:
+
+- **Đơn Hàng:** Xử lý các vấn đề liên quan đến đơn đặt hàng
+- **Duy Trì Tài Khoản:** Tạo và duy trì tài khoản, bao gồm các chương trình khách hàng thân thiết
+- **Dịch Vụ Người Tiêu Dùng:** Phản hồi khiếu nại và yêu cầu của khách hàng
+- **Cá Nhân Hóa:** Cải thiện trải nghiệm, điều chỉnh dịch vụ phù hợp với nhu cầu, cung cấp quảng cáo được điều chỉnh
+- **An Ninh:** Ngăn ngừa các hoạt động phá hủy tài khoản hoặc giả mạo
+- **Theo yêu cầu pháp luật:** Thu thập theo quy định của pháp luật hiện hành
+
+---
+
+## 3. Phạm Vi Thu Thập
+
+Thông tin được thu thập khi:
+
+- Người dùng trực tiếp cung cấp (họ tên, email, điện thoại, địa chỉ, thông tin đăng nhập)
+- Khách hàng tương tác trên sàn (sử dụng cookies và công nghệ theo dõi)
+- Từ các nguồn hợp pháp khác
+
+---
+
+## 4. Thời Gian Lưu Trữ
+
+Thông tin cá nhân được lưu trữ cho đến khi khách hàng yêu cầu hủy bỏ hoặc tự đăng nhập và thực hiện hủy bỏ. Trong mọi trường hợp, dữ liệu được bảo mật trên máy chủ của Tiki.
+
+---
+
+## 5. Không Chia Sẻ Thông Tin Cá Nhân Khách Hàng
+
+Tiki không cung cấp thông tin cá nhân cho bên thứ ba, ngoại trừ:
+
+- Các đối tác cung cấp dịch vụ liên quan đến thực hiện đơn hàng (với giới hạn thông tin cần thiết)
+- Nhà cung cấp dịch vụ bên thứ ba (phải tuân thủ luật bảo vệ thông tin cá nhân)
+- Các chương trình liên kết, đồng thực hiện, thuê ngoài
+- Yêu cầu pháp lý khi cần thiết
+- Chuyển giao kinh doanh (trường hợp sáp nhập hay hợp nhất)
+
+---
+
+## 6. An Toàn Dữ Liệu
+
+Công ty thực hiện nhiều biện pháp an toàn:
+
+- Lưu trữ thông tin trong môi trường vận hành an toàn
+- Chỉ nhân viên, đại diện và nhà cung cấp dịch vụ có quyền truy cập theo nhu cầu
+- Tuân theo tiêu chuẩn ngành và pháp luật trong bảo mật
+- Thông báo cơ quan chức năng và khách hàng nếu máy chủ bị tấn công
+- Bảo mật thông tin thanh toán theo tiêu chuẩn ngành
+
+---
+
+## 7. Quyền Của Khách Hàng
+
+**Quyền cơ bản:**
+- Cung cấp thông tin và thay đổi quyết định bất kỳ lúc nào
+- Tự kiểm tra, cập nhật, điều chỉnh thông tin cá nhân
+
+**Rút tên/Xóa thông tin:**
+Khách hàng có thể xóa/hủy tài khoản Tiki; hệ thống sẽ xóa toàn bộ dữ liệu cá nhân.
+
+**Điều chỉnh thông tin:**
+Vào Thông tin Tài khoản Tiki và thực hiện Điều chỉnh.
+
+**Yêu cầu Truy cập/Sửa dữ liệu:**
+- Người dùng đã đăng ký: Truy cập qua trang Thiết Lập Tài Khoản
+- Chưa đăng ký: Gửi yêu cầu bằng văn bản cho nhân viên Quản lý dữ liệu tại https://tiki.vn/lien-he/gui-yeu-cau
+
+---
+
+## 8. Thông Tin Liên Hệ
+
+- **Hotline:** 19006035
+- **Email:** hotro@tiki.vn
+- **Liên hệ trực tiếp:** https://tiki.vn/lien-he/gui-yeu-cau

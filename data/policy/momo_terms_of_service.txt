@@ -1,0 +1,77 @@
+# Điều Khoản Và Điều Lệ Dịch Vụ - Ví Điện Tử MoMo
+
+**Nguồn:** https://www.momo.vn/dieu-khoan-dieu-le  
+**Công ty:** Công ty Cổ phần Dịch vụ Di động Trực tuyến (M_Service)  
+**Hotline:** 1900 5454 41
+
+---
+
+## Các Thành Phần Chính
+
+- Định nghĩa và thuật ngữ (15 thuật ngữ được định nghĩa)
+- Quy định chung sử dụng nền tảng
+- Quyền và trách nhiệm của người dùng và M_Service
+- Quy trình mở và liên kết tài khoản ví điện tử
+- Hạn mức giao dịch và quy tắc sử dụng
+- Giải quyết tranh chấp và xử lý khiếu nại
+- Giới hạn trách nhiệm
+- Chính sách thu thập dữ liệu và quyền riêng tư
+
+---
+
+## Nghĩa Vụ Quan Trọng Của Người Dùng
+
+- Cung cấp thông tin chính xác, duy trì bảo mật tài khoản
+- Báo cáo nghi ngờ gian lận trong thời gian quy định
+- Tuân thủ tất cả quy định phòng chống rửa tiền
+
+---
+
+## Hạn Mức Giao Dịch
+
+- **Số dư tối đa ví cá nhân:** 200 triệu đồng
+- **Hạn mức giao dịch hàng tháng:** 100 triệu đồng (với một số trường hợp ngoại lệ)
+
+---
+
+## Bảo Vệ Và Giới Hạn Trách Nhiệm
+
+- M_Service giới hạn trách nhiệm ở thiệt hại trực tiếp thực tế
+- Không chịu trách nhiệm về tranh chấp bên thứ ba, truy cập trái phép và một số lỗi kỹ thuật
+- Người dùng chịu trách nhiệm giao dịch trái phép xảy ra trước khi thông báo bị lộ thông tin
+
+---
+
+## Quy Trình Quan Trọng
+
+- **Giải quyết khiếu nại:** Tối đa **45 ngày làm việc**
+- **Đóng tài khoản:** Có thể xảy ra vì vi phạm, tài khoản không hoạt động, hoặc yêu cầu pháp lý
+- **Yêu cầu đóng tài khoản:** Người dùng có thể yêu cầu nếu không có tranh chấp hoặc điều tra đang diễn ra
+
+---
+
+## Các Hoạt Động Bị Cấm
+
+- Sử dụng tài khoản cho mục đích bất hợp pháp
+- Cung cấp thông tin sai lệch
+- Chuyển nhượng tài khoản cho người khác
+- Sử dụng cho cờ bạc, rửa tiền, tài trợ khủng bố
+- Mua bán hàng hóa, dịch vụ bị pháp luật cấm
+
+---
+
+## Tính Năng Bảo Mật
+
+- Chứng nhận bảo mật PCI DSS
+- Xác thực hai lớp
+- Khóa bằng vân tay
+- Công nghệ SSL/TLS
+- Mã hóa đầu cuối
+
+---
+
+## Liên Hệ Hỗ Trợ
+
+- **Hotline:** 1900 5454 41
+- **Ứng dụng MoMo:** Tính năng Trợ giúp
+- **Email:** support@momo.vn

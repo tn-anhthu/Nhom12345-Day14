@@ -1,126 +1,127 @@
-# Chính Sách Bảo Vệ Dữ Liệu Cá Nhân - VNPAY
+# Personal Data Protection Policy - VNPAY
 
-**Nguồn:** https://vnpay.vn/chinh-sach/chinh-sach-bao-ve-du-lieu-ca-nhan.html  
-**Công ty:** Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY)  
-**Địa chỉ:** Tầng 8, số 22, phố Láng Hạ, phường Láng Hạ, quận Đống Đa, Hà Nội  
+**Source:** https://vnpay.vn/chinh-sach/chinh-sach-bao-ve-du-lieu-ca-nhan.html  
+**Company:** Vietnam Payment Solution Joint Stock Company (VNPAY)  
+**Address:** Floor 8, No. 22 Lang Ha Street, Lang Ha Ward, Dong Da District, Hanoi  
 **Hotline:** 1900.555.577  
 **Email:** hotrovnpay@vnpay.vn  
-**Hiệu lực:** 10/01/2026
+**Effective Date:** 01/10/2026
 
 ---
 
-## 1. Các Quy Định Chung
+## 1. General Provisions
 
-VNPAY cam kết bảo vệ dữ liệu cá nhân của khách hàng theo:
-- Luật Bảo vệ Dữ liệu cá nhân số 91/2025/QH15 ngày 26/6/2025
-- Các văn bản hướng dẫn, sửa đổi tại từng thời kỳ
-- Hợp đồng, thỏa thuận giữa khách hàng và VNPAY
+VNPAY commits to protecting customers' personal data in accordance with:
+- Personal Data Protection Law No. 91/2025/QH15 dated 26 June 2025
+- Guiding and amending documents issued from time to time
+- Contracts and agreements between customers and VNPAY
 
-VNPAY có thể đóng vai trò là Bên kiểm soát, Bên xử lý, hoặc cả hai tùy tình huống cụ thể.
-
----
-
-## 2. Phạm Vi & Loại Dữ Liệu Cá Nhân Được Xử Lý
-
-### (i) Dữ liệu cá nhân cơ bản
-
-Họ, chữ đệm và tên; ngày tháng năm sinh; giới tính; nơi sinh, nơi thường trú; quốc tịch; hình ảnh; số điện thoại, số định danh cá nhân, số hộ chiếu, số GPLX; tình trạng hôn nhân; thông tin gia đình; thông tin tài khoản số.
-
-### (ii) Dữ liệu cá nhân nhạy cảm
-
-- Nguồn gốc chủng tộc, dân tộc; quan điểm chính trị, tôn giáo
-- Thông tin đời sống riêng tư, sức khỏe
-- Dữ liệu sinh trắc học, đặc điểm di truyền
-- Đời sống tình dục, xu hướng tình dục
-- Dữ liệu tội phạm, vi phạm pháp luật
-- Vị trí cá nhân qua dịch vụ định vị
-- Thông tin tài khoản ngân hàng, thẻ ngân hàng
-- Lịch sử giao dịch tài chính, chứng khoán, bảo hiểm
-- Dữ liệu theo dõi hành vi sử dụng dịch vụ viễn thông, mạng xã hội
-
-### (iii) Thông tin giao dịch
-
-Các thông tin về quá trình mua, sử dụng sản phẩm và dịch vụ của VNPAY.
+VNPAY may act as a Data Controller, Data Processor, or both depending on the specific situation.
 
 ---
 
-## 3. Mục Đích Xử Lý Dữ Liệu Cá Nhân
+## 2. Scope & Types of Personal Data Processed
 
-VNPAY thu thập và xử lý dữ liệu cá nhân cho các mục đích:
+### (i) Basic Personal Data
 
-1. Đánh giá và cung cấp sản phẩm, dịch vụ
-2. Nhận biết, xác minh và duy trì thông tin khách hàng (KYC)
-3. Hỗ trợ khách hàng, cập nhật thông tin
-4. Thực hiện nghĩa vụ hợp đồng
-5. Đánh giá rủi ro, phân tích xu hướng, thống kê, phòng chống rửa tiền
-6. Phát hiện, ngăn chặn tội phạm, gian lận, rửa tiền, khủng bố
-7. Giới thiệu và xúc tiến thương mại, tiếp thị trực tiếp
-8. Ghi nhận tín nhiệm, chương trình khách hàng thân thiết
-9. Nghiên cứu, phát triển sản phẩm mới
-10. Cải thiện chất lượng sản phẩm, dịch vụ
-11. Xác minh thông tin trong tra soát và khiếu nại
-12. Bảo vệ quyền và lợi ích hợp pháp của VNPAY
+Full name (including middle name); date, month, and year of birth; gender; place of birth, permanent residence; nationality; personal image; phone number, personal ID number, passport number, driver's license number; marital status; family information; digital account information.
 
----
+### (ii) Sensitive Personal Data
 
-## 4. Cách Thức Xử Lý Dữ Liệu
+- Racial or ethnic origin; political views, religion, beliefs
+- Private life, personal secrets, family secrets; health information
+- Biometric data, genetic characteristics
+- Sexual life, sexual orientation
+- Criminal or legal violation data collected by law enforcement
+- Individual location via location services
+- Bank account login credentials and passwords
+- Bank card information, bank transaction history
+- Financial, credit, and transaction history at credit institutions, payment intermediaries, securities, insurance firms
+- Behavioral data from telecommunications, social media, and online service usage
 
-- Bằng tay
-- Tự động (bằng phương tiện điện tử)
-- Cách thức khác phù hợp quy định pháp luật
+### (iii) Transaction Information
+
+Information about purchases and use of VNPAY products and services.
 
 ---
 
-## 5. Chia Sẻ Dữ Liệu
+## 3. Purposes of Personal Data Processing
 
-VNPAY có thể chia sẻ dữ liệu với:
-- Nhà cung cấp dịch vụ công nghệ, marketing, pháp lý, kiểm toán, vận chuyển
-- Công ty tư vấn, luật sư
-- Đối tác tài chính, ngân hàng thương mại, tổ chức thẻ
-- Đơn vị chấp nhận thanh toán
-- Nhân viên VNPAY
-- Công ty mẹ, công ty con và công ty liên kết
-- Cơ quan nhà nước có thẩm quyền theo quy định pháp luật
+VNPAY collects and processes personal data for:
 
----
-
-## 6. Hậu Quả Thiệt Hại Không Mong Muốn
-
-VNPAY sử dụng tiêu chuẩn PCI DSS, SSL để bảo vệ dữ liệu. Tuy nhiên, các rủi ro có thể xảy ra do:
-- Lỗi phần cứng, phần mềm
-- Lỗ hổng bảo mật ngoài tầm kiểm soát, tấn công mạng
-- Khách hàng chủ quan, bất cẩn hoặc bị lừa đảo
-- Thảm họa thiên nhiên
+1. Evaluating and providing products and services
+2. Customer identification, verification, and maintenance (KYC)
+3. Customer support and information updates
+4. Fulfilling contractual obligations
+5. Risk assessment, trend analysis, statistics, and anti-money laundering
+6. Detecting and preventing crime, fraud, money laundering, and terrorism
+7. Commercial promotion and direct marketing
+8. Loyalty credit recording and customer loyalty programs
+9. Research and development of new products
+10. Improving product and service quality
+11. Verifying information in disputes and complaints
+12. Protecting VNPAY's legitimate rights and interests
 
 ---
 
-## 7. Thời Gian Xử Lý Dữ Liệu
+## 4. Methods of Data Processing
 
-- **Bắt đầu:** Khi khách hàng chấp thuận chính sách hoặc đăng ký sử dụng dịch vụ
-- **Kết thúc:** Khi khách hàng yêu cầu chấm dứt, hoặc VNPAY không còn nghĩa vụ cung cấp dịch vụ, hoặc theo quy định pháp luật
-
----
-
-## 8. Quyền Và Nghĩa Vụ Của Khách Hàng
-
-### Quyền của khách hàng:
-1. Được biết về hoạt động xử lý dữ liệu
-2. Đồng ý hoặc rút lại sự đồng ý
-3. Xem, chỉnh sửa dữ liệu cá nhân
-4. Yêu cầu cung cấp, xóa, hạn chế xử lý dữ liệu
-5. Khiếu nại, tố cáo, khởi kiện, yêu cầu bồi thường
-
-### Nghĩa vụ của khách hàng:
-1. Tuân thủ quy định pháp luật và chính sách VNPAY
-2. Cung cấp thông tin đầy đủ, trung thực, chính xác
-3. Phối hợp với VNPAY và cơ quan có thẩm quyền
-4. Tự bảo vệ dữ liệu cá nhân
-5. Thường xuyên cập nhật chính sách VNPAY
+- Manually
+- Automatically (by electronic means)
+- Other methods compliant with applicable law
 
 ---
 
-## 9. Liên Hệ
+## 5. Data Sharing
 
-- **Địa chỉ:** Tầng 8, số 22, phố Láng Hạ, quận Đống Đa, Hà Nội
+VNPAY may share data with:
+- Technology, marketing, legal, audit, and logistics service providers
+- Consulting firms and attorneys
+- Financial partners, commercial banks, card organizations
+- Payment-accepting entities
+- VNPAY employees
+- Parent companies, subsidiaries, and affiliated companies
+- Competent state authorities as required by law
+
+---
+
+## 6. Potential Undesired Consequences
+
+VNPAY uses PCI DSS and SSL standards to protect data. However, risks may arise due to:
+- Hardware or software errors
+- Security vulnerabilities beyond VNPAY's control, cyberattacks
+- Customer negligence or being defrauded
+- Natural disasters
+
+---
+
+## 7. Data Processing Duration
+
+- **Start:** When the customer accepts this policy or registers to use the service
+- **End:** When the customer requests termination, or VNPAY no longer has obligations to provide the service, or as required by law
+
+---
+
+## 8. Customer Rights and Obligations
+
+### Customer Rights:
+1. Right to be informed about data processing activities
+2. Right to consent or withdraw consent
+3. Right to view and correct personal data
+4. Right to request provision, deletion, or restriction of data processing
+5. Right to file complaints, reports, lawsuits, and claim compensation
+
+### Customer Obligations:
+1. Comply with applicable law and VNPAY policies
+2. Provide complete, truthful, and accurate information
+3. Cooperate with VNPAY and competent authorities
+4. Self-protect personal data
+5. Regularly review VNPAY's updated policies
+
+---
+
+## 9. Contact
+
+- **Address:** Floor 8, No. 22 Lang Ha Street, Dong Da District, Hanoi
 - **Hotline:** 1900.555.577
 - **Email:** hotrovnpay@vnpay.vn

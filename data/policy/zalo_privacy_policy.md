@@ -1,72 +1,72 @@
-# Chính Sách Quyền Riêng Tư - Zalo / VNG
+# Privacy Policy - Zalo / VNG
 
-**Nguồn:** https://zalo.me/zalo/policy/  
-**Công ty:** VNG Corporation  
-**Địa chỉ:** Z06 Đường số 13, Phường Tân Thuận, Quận 7, TP. Hồ Chí Minh  
+**Source:** https://zalo.me/zalo/policy/  
+**Company:** VNG Corporation  
+**Address:** Z06 Street No. 13, Tan Thuan Ward, District 7, Ho Chi Minh City  
 **Email:** feedback@zalo.me
 
 ---
 
-## Thông Tin Do Người Dùng Cung Cấp
+## Information Provided by Users
 
-Người dùng cung cấp dữ liệu cá nhân khi tạo tài khoản, bao gồm:
+Users submit personal data when creating an account, including:
 
-- **Thông tin định danh:** Số điện thoại, họ tên, tuổi, giới tính, quan hệ gia đình, số CMND/hộ chiếu, nơi sinh, email, địa chỉ
-- **Nội dung công khai:** Trạng thái, ảnh đại diện, ảnh bìa, tên danh bạ tùy chỉnh, phản hồi khảo sát
-- **Đại diện tổ chức:** Tên đơn vị, mã số thuế, địa chỉ đăng ký, thông tin người đại diện pháp luật và quản trị viên
-
----
-
-## Thông Tin Thu Thập Tự Động
-
-Nền tảng thu thập:
-
-- **Dữ liệu thiết bị & ứng dụng:** Phiên bản hệ điều hành, cài đặt ngôn ngữ, chất lượng tín hiệu, thông tin cookie, mức pin
-- **Hoạt động tài khoản:** Tần suất sử dụng, dấu thời gian, tương tác quảng cáo, giao dịch, báo cáo sự cố, hoạt động trên website/ứng dụng liên kết
-- **Danh bạ điện thoại:** Thu thập với sự đồng ý của người dùng để đồng bộ
-- **Dữ liệu vị trí:** Thông tin GPS thu thập với sự đồng ý của người dùng
+- **Identification Details:** Phone number, full name, age, gender, family relationships, national ID/passport numbers, birthplace, email, and address
+- **Public Content:** Status updates, profile pictures, cover photos, custom contact names, and survey responses
+- **Organizational Representatives:** Entity name, tax ID, registered address, legal representative information, and administrator details
 
 ---
 
-## Mục Đích Thu Thập Dữ Liệu
+## Automatically Collected Information
 
-VNG thu thập thông tin để:
+The platform gathers:
 
-1. Cung cấp Dịch vụ ổn định và an toàn
-2. Phân phối nội dung và đề xuất được cá nhân hóa
-3. Hỗ trợ nghiên cứu, phát triển và cải tiến tính năng
-4. Duy trì sự ổn định và bảo mật nền tảng
-5. Kích hoạt giao tiếp giữa người dùng
-6. Ngăn chặn các hoạt động bất hợp pháp
+- **Device & Application Data:** Operating system versions, language settings, signal quality, cookie information, and battery levels
+- **Account Activity:** Usage frequency, timestamps, advertising interactions, transactions, incident reports, and linked website/app activities
+- **Phone Contacts:** Collected with user consent for synchronization
+- **Location Data:** GPS information collected with user consent
 
 ---
 
-## Chia Sẻ Dữ Liệu
+## Purposes of Data Collection
 
-- **Công ty con:** Thông tin được chia sẻ trong hệ sinh thái VNG để tạo tài khoản liền mạch
-- **Bên thứ ba:** Chia sẻ với sự đồng ý của người dùng để cung cấp dịch vụ
-- **Đăng nhập bên thứ ba:** Thông tin tài khoản được tiết lộ khi người dùng xác thực dịch vụ bên thứ ba
+VNG collects information to:
 
----
-
-## Quyền Kiểm Soát & Xóa Dữ Liệu
-
-Người dùng có thể chỉnh sửa, xóa hoặc rút lại sự đồng ý thông qua cài đặt tài khoản hoặc bằng cách liên hệ trực tiếp với VNG. Việc rút lại sự đồng ý dẫn đến vô hiệu hóa tài khoản và chấm dứt dịch vụ.
-
----
-
-## Bảo Mật Thông Tin
-
-VNG duy trì các tính năng bảo mật bao gồm kiểm soát quyền riêng tư, mã hóa đầu cuối và cảnh báo bảo mật liên kết. Tuy nhiên, bảo mật phụ thuộc một phần vào chất lượng thiết bị người dùng và cơ sở hạ tầng bên thứ ba.
+1. Provide the Service in a stable and secure manner
+2. Deliver personalized content and recommendations
+3. Support research, development, and feature improvements
+4. Maintain platform stability and security
+5. Enable user communications
+6. Prevent unlawful activities
 
 ---
 
-## Báo Cáo Vi Phạm
+## Data Sharing
 
-Người dùng báo cáo vi phạm gửi thông báo đến:
+- **Subsidiaries:** Information shared within the VNG ecosystem to enable seamless account creation
+- **Third Parties:** Shared with user consent for service delivery
+- **Third-Party Login:** Account information disclosed when users authenticate third-party services
 
-**Bộ phận Pháp lý Zalo – Tập đoàn VNG**
-- **Địa chỉ:** Z06 Đường số 13, Phường Tân Thuận, TP. Hồ Chí Minh
+---
+
+## User Control & Data Deletion
+
+Users may modify, delete, or withdraw consent through account settings or by contacting VNG directly. Withdrawing consent results in account deactivation and service termination.
+
+---
+
+## Information Security
+
+VNG maintains security features including privacy controls, end-to-end encryption, and link security warnings. However, security depends partly on user device quality and third-party infrastructure.
+
+---
+
+## Violation Reporting
+
+Users reporting violations should submit notices to:
+
+**Zalo Legal Department – VNG Corporation**
+- **Address:** Z06 Street No. 13, Tan Thuan Ward, Ho Chi Minh City
 - **Email:** feedback@zalo.me
 
-Báo cáo phải bao gồm thông tin bên khiếu nại, chi tiết vi phạm và tài liệu hỗ trợ.
+Reports must include claimant information, violation details, and supporting documentation.

@@ -1,94 +1,94 @@
-# Chính Sách Bảo Mật Thông Tin Cá Nhân - Tiki
+# Privacy Policy - Tiki
 
-**Nguồn:** https://tiki.vn/thong-tin/privacy-policy  
-**Công ty:** Công ty Cổ phần Ti Ki  
-**ĐKKD:** 0309532909 – Sở Kế hoạch và Đầu tư TP. Hồ Chí Minh  
-**Địa chỉ:** Tòa nhà Viettel, Số 285, Cách Mạng Tháng 8, P.12, Q.10, TP. HCM  
-**Hotline:** 19006035  
-**Email:** hotro@tiki.vn  
-**Hiệu lực:** 11/11/2022
-
----
-
-## 1. Sự Chấp Thuận
-
-Bằng việc cung cấp thông tin cá nhân cho Tiki, người dùng đồng ý với các điều khoản bảo mật. Công ty bảo lưu quyền sửa đổi chính sách vào bất kỳ thời điểm nào và khuyến khích khách hàng thường xuyên xem lại các cập nhật.
+Source: https://tiki.vn/thong-tin/privacy-policy
+Company: Ti Ki Joint Stock Company
+Business Registration: 0309532909 - Department of Planning and Investment, Ho Chi Minh City
+Address: Viettel Building, No. 285 Cach Mang Thang 8, Ward 12, District 10, Ho Chi Minh City
+Hotline: 19006035
+Email: hotro@tiki.vn
+Effective Date: 11/11/2022
 
 ---
 
-## 2. Mục Đích Thu Thập
+## 1. Consent
 
-Thông tin cá nhân được thu thập cho các mục đích:
-
-- **Đơn Hàng:** Xử lý các vấn đề liên quan đến đơn đặt hàng
-- **Duy Trì Tài Khoản:** Tạo và duy trì tài khoản, bao gồm các chương trình khách hàng thân thiết
-- **Dịch Vụ Người Tiêu Dùng:** Phản hồi khiếu nại và yêu cầu của khách hàng
-- **Cá Nhân Hóa:** Cải thiện trải nghiệm, điều chỉnh dịch vụ phù hợp với nhu cầu, cung cấp quảng cáo được điều chỉnh
-- **An Ninh:** Ngăn ngừa các hoạt động phá hủy tài khoản hoặc giả mạo
-- **Theo yêu cầu pháp luật:** Thu thập theo quy định của pháp luật hiện hành
+By providing personal information to Tiki, users agree to the privacy terms. The company reserves the right to modify this policy at any time and encourages customers to regularly review updates.
 
 ---
 
-## 3. Phạm Vi Thu Thập
+## 2. Purposes of Collection
 
-Thông tin được thu thập khi:
+Personal information is collected for:
 
-- Người dùng trực tiếp cung cấp (họ tên, email, điện thoại, địa chỉ, thông tin đăng nhập)
-- Khách hàng tương tác trên sàn (sử dụng cookies và công nghệ theo dõi)
-- Từ các nguồn hợp pháp khác
-
----
-
-## 4. Thời Gian Lưu Trữ
-
-Thông tin cá nhân được lưu trữ cho đến khi khách hàng yêu cầu hủy bỏ hoặc tự đăng nhập và thực hiện hủy bỏ. Trong mọi trường hợp, dữ liệu được bảo mật trên máy chủ của Tiki.
+- **Orders:** Processing issues related to orders
+- **Account Maintenance:** Creating and maintaining accounts, including loyalty programs
+- **Consumer Services:** Responding to customer complaints and requests
+- **Personalization:** Improving the experience, tailoring services to needs, providing targeted advertising
+- **Security:** Preventing account destruction or impersonation activities
+- **Legal Requirements:** Collection as required by applicable law
 
 ---
 
-## 5. Không Chia Sẻ Thông Tin Cá Nhân Khách Hàng
+## 3. Scope of Collection
 
-Tiki không cung cấp thông tin cá nhân cho bên thứ ba, ngoại trừ:
+Information is collected when:
 
-- Các đối tác cung cấp dịch vụ liên quan đến thực hiện đơn hàng (với giới hạn thông tin cần thiết)
-- Nhà cung cấp dịch vụ bên thứ ba (phải tuân thủ luật bảo vệ thông tin cá nhân)
-- Các chương trình liên kết, đồng thực hiện, thuê ngoài
-- Yêu cầu pháp lý khi cần thiết
-- Chuyển giao kinh doanh (trường hợp sáp nhập hay hợp nhất)
+- Users directly provide it (full name, email, phone, address, login credentials)
+- Customers interact on the platform (using cookies and tracking technologies)
+- From other legitimate sources
 
 ---
 
-## 6. An Toàn Dữ Liệu
+## 4. Retention Period
 
-Công ty thực hiện nhiều biện pháp an toàn:
-
-- Lưu trữ thông tin trong môi trường vận hành an toàn
-- Chỉ nhân viên, đại diện và nhà cung cấp dịch vụ có quyền truy cập theo nhu cầu
-- Tuân theo tiêu chuẩn ngành và pháp luật trong bảo mật
-- Thông báo cơ quan chức năng và khách hàng nếu máy chủ bị tấn công
-- Bảo mật thông tin thanh toán theo tiêu chuẩn ngành
+Personal information is stored until the customer requests deletion or logs in and performs the deletion themselves. In all cases, data is secured on Tiki's servers.
 
 ---
 
-## 7. Quyền Của Khách Hàng
+## 5. No Sharing of Personal Information
 
-**Quyền cơ bản:**
-- Cung cấp thông tin và thay đổi quyết định bất kỳ lúc nào
-- Tự kiểm tra, cập nhật, điều chỉnh thông tin cá nhân
+Tiki does not provide personal information to third parties, except:
 
-**Rút tên/Xóa thông tin:**
-Khách hàng có thể xóa/hủy tài khoản Tiki; hệ thống sẽ xóa toàn bộ dữ liệu cá nhân.
-
-**Điều chỉnh thông tin:**
-Vào Thông tin Tài khoản Tiki và thực hiện Điều chỉnh.
-
-**Yêu cầu Truy cập/Sửa dữ liệu:**
-- Người dùng đã đăng ký: Truy cập qua trang Thiết Lập Tài Khoản
-- Chưa đăng ký: Gửi yêu cầu bằng văn bản cho nhân viên Quản lý dữ liệu tại https://tiki.vn/lien-he/gui-yeu-cau
+- Partners providing services related to order fulfillment (limited to necessary information)
+- Third-party service providers (must comply with personal data protection laws)
+- Affiliate, co-execution, and outsourcing programs
+- Legal requirements when necessary
+- Business transfers (in the case of mergers or acquisitions)
 
 ---
 
-## 8. Thông Tin Liên Hệ
+## 6. Data Security
+
+The company implements multiple security measures:
+
+- Storing information in a secure operating environment
+- Only employees, representatives, and service providers with need-to-know access
+- Complying with industry standards and regulations in security
+- Notifying authorities and customers if servers are attacked
+- Securing payment information according to industry standards
+
+---
+
+## 7. Customer Rights
+
+**Basic rights:**
+- Provide information and change decisions at any time
+- Self-check, update, and adjust personal information
+
+**Withdrawal/Deletion:**
+Customers can delete/close their Tiki account; the system will delete all personal data.
+
+**Information Adjustment:**
+Go to Tiki Account Information and perform Adjustments.
+
+**Data Access/Correction Requests:**
+- Registered users: Access through the Account Settings page
+- Non-registered: Submit a written request to the Data Management staff at https://tiki.vn/lien-he/gui-yeu-cau
+
+---
+
+## 8. Contact Information
 
 - **Hotline:** 19006035
 - **Email:** hotro@tiki.vn
-- **Liên hệ trực tiếp:** https://tiki.vn/lien-he/gui-yeu-cau
+- **Direct contact:** https://tiki.vn/lien-he/gui-yeu-cau

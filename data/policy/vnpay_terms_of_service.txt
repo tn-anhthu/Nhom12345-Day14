@@ -1,113 +1,113 @@
-# Điều Khoản Và Điều Kiện Sử Dụng Dịch Vụ - VNPAY
+# Terms and Conditions of Service - VNPAY
 
-**Nguồn:** https://vnpay.vn/chinh-sach/dieu-khoan-dieu-kien-sddv-vnpay-bsddv.html  
-**Công ty:** Công ty Cổ phần Giải pháp Thanh toán Việt Nam (VNPAY)
-
----
-
-## A. Quy Định Chung
-
-### Định Nghĩa
-
-Hơn 40 thuật ngữ được định nghĩa bao gồm:
-- Dịch vụ thanh toán (mã QR, POS, PhonePOS)
-- Dịch vụ khai thuế (hóa đơn, tài liệu điện tử)
-- Loại giao dịch (hợp lệ, gian lận, hoàn tiền, chargeback)
-- Loại thẻ (nội địa vs. quốc tế)
-
-### Cam Kết Chung
-
-Yêu cầu tất cả các bên:
-- Cung cấp thông tin chính xác
-- Thực hiện bảo mật thông tin và ngăn chặn gian lận
-- Hợp tác về quản lý rủi ro và điều tra
-
-### Quyền Của VNPAY
-
-- Tạm ngừng dịch vụ vì vi phạm hoặc tuân thủ pháp lý
-- Thu phí theo thỏa thuận
-- Bảo vệ sở hữu trí tuệ cho tất cả hệ thống đã phát triển
-
-### Nghĩa Vụ Của Đơn Vị Kinh Doanh (Merchant)
-
-- Hoạt động kinh doanh hợp pháp, được ủy quyền
-- Không thu thêm phí từ khách hàng khi thanh toán thẻ
-- Lưu trữ tài liệu giao dịch trong **18 tháng**
-- Tuân thủ các tiêu chuẩn quy định
+Source: https://vnpay.vn/chinh-sach/dieu-khoan-dieu-kien-sddv-vnpay-bsddv.html
+Company: Vietnam Payment Solution Joint Stock Company (VNPAY)
 
 ---
 
-## B. Xử Lý Giao Dịch & Dịch Vụ Thanh Toán
+## A. General Provisions
 
-### Chính Sách Hoàn Tiền
+### Definitions
 
-- Hoàn phí dịch vụ theo tỷ lệ phần trăm
-- Không hoàn phí cố định khi hoàn tiền một phần
-- Không áp dụng cho tiền cọc và bảo trì phần mềm
+Over 40 terms are defined including:
+- Payment services (QR codes, POS, PhonePOS)
+- Tax filing services (invoices, electronic documents)
+- Transaction types (valid, fraudulent, refund, chargeback)
+- Card categories (domestic vs. international)
 
-### Giải Quyết Tranh Chấp
+### Common Commitments
 
-- Thời gian phản hồi: **3-5 ngày làm việc**
-- Yêu cầu nộp tài liệu trong vòng **3 ngày**
-- Quy trình xác minh giao dịch
+All parties are required to:
+- Provide accurate information
+- Implement information security and fraud prevention
+- Cooperate on risk management and investigations
 
-### Quản Lý Thiết Bị
+### VNPAY Rights
 
-- Giao thức bảo quản và bảo mật máy POS
-- Thủ tục thay thế (3 ngày làm việc)
-- Tính toán bồi thường thiệt hại theo khấu hao
-- Nghĩa vụ trả lại trong vòng **5 ngày làm việc** kể từ khi nhận thông báo
+- Suspend service for violations or legal compliance
+- Collect fees as agreed
+- Protect intellectual property for all developed systems
 
----
+### Merchant Obligations
 
-## C. Giao Dịch MOTO
-
-Yêu cầu chi tiết cho thanh toán qua thư/điện thoại:
-- Tiêu chuẩn tài liệu tối thiểu
-- Quy trình xác minh khách hàng
-- Giao thức đối chiếu chữ ký chủ thẻ
-- Trách nhiệm merchant đối với giao dịch gian lận hoặc tranh chấp
-
----
-
-## D. Hỗ Trợ Chuyển Đổi Trả Góp
-
-VNPAY hỗ trợ khách hàng chuyển đổi mua hàng sang trả góp lãi suất 0% qua các ngân hàng đối tác.
-
-**Lịch phí theo ngân hàng:** 1.8% – 8.9% tùy kỳ hạn trả góp.
+- Operate legally and with proper authorization
+- Not charge customers extra fees for card payments
+- Retain transaction documentation for **18 months**
+- Comply with regulatory standards
 
 ---
 
-## E. Dịch Vụ Thuế Điện Tử
+## B. Transaction Processing & Payment Services
 
-**Dịch vụ cung cấp:**
-- Chứng thư số (VNPAY-CA)
-- Hóa đơn điện tử (VNPAY-Invoice)
-- Truyền dữ liệu thuế (VNPAY-TVAN)
-- Phần mềm quản lý bán hàng
-- Nền tảng hợp đồng điện tử (VNeDOC)
+### Refund Policy
 
-**Triển khai:** Bao gồm hỗ trợ kỹ thuật, thiết lập tài khoản và dịch vụ 24/7 (ngoại trừ sự kiện bất khả kháng).
+- Percentage-based refund of service fees
+- No refund of fixed fees for partial refunds
+- Exclusions for deposits and software maintenance
 
----
+### Dispute Resolution
 
-## F. Thời Hạn & Chấm Dứt Hợp Đồng
+- Response timeframe: **3-5 business days**
+- Document submission required within **3 days**
+- Transaction verification procedures
 
-- **Thời hạn:** 3 năm, tự động gia hạn hàng năm trừ khi thông báo 30 ngày trước
-- **Chấm dứt sớm:** Thông báo 15 ngày làm việc cho vi phạm trọng yếu; 30 ngày cho tiện lợi
-- **Nghĩa vụ sau chấm dứt:** Thanh toán tài chính và giải quyết tranh chấp vẫn tiếp tục
+### Equipment Management
 
----
-
-## G. Bảo Vệ Dữ Liệu & Bảo Mật
-
-- Nghĩa vụ bảo mật **5 năm** sau khi hợp đồng kết thúc
-- Yêu cầu sự đồng ý của khách hàng để chia sẻ dữ liệu cá nhân
-- Yêu cầu thông báo ngay khi có vi phạm
-- Hạn chế chuyển dữ liệu xuyên biên giới mà không có phê duyệt bằng văn bản
+- POS machine care and security protocols
+- Replacement procedures (3 business days)
+- Damage compensation calculations based on depreciation
+- Return obligation within **5 business days** of notice
 
 ---
 
-## H. Luật Điều Chỉnh
+## C. MOTO Transactions
 
-Pháp luật Việt Nam áp dụng với tự động cập nhật các sửa đổi pháp lý trong thời hạn hợp đồng.
+Detailed requirements for mail order/telephone order payments:
+- Minimum documentation standards
+- Customer verification procedures
+- Cardholder signature matching protocols
+- Merchant liability for fraudulent or disputed transactions
+
+---
+
+## D. Installment Conversion Support
+
+VNPAY assists customers in converting purchases to 0% interest installments through partner banks.
+
+**Fee schedule by bank:** 1.8% – 8.9% depending on the installment period.
+
+---
+
+## E. Digital Tax Services
+
+**Services provided:**
+- Digital signature certificates (VNPAY-CA)
+- Electronic invoicing (VNPAY-Invoice)
+- Tax data transmission (VNPAY-TVAN)
+- Sales management software
+- Electronic contract platform (VNeDOC)
+
+**Implementation:** Includes technical support, account setup, and 24/7 service availability (excluding force majeure events).
+
+---
+
+## F. Contract Duration & Termination
+
+- **Term:** 3 years, auto-renewing annually unless 30 days' notice given
+- **Early Termination:** 15 business days' notice for material breach; 30 days for convenience
+- **Post-Termination Obligations:** Financial settlements and dispute resolution continue
+
+---
+
+## G. Data Protection & Confidentiality
+
+- **5-year** confidentiality obligation after contract ends
+- Customer consent required for personal data sharing
+- Immediate breach notification requirements
+- Cross-border data transfer restrictions without written approval
+
+---
+
+## H. Governing Law
+
+Vietnamese law applies with automatic incorporation of legal amendments during the contract term.

@@ -1,133 +1,133 @@
-# Chính Sách Quyền Riêng Tư - Ví Điện Tử MoMo
+# Privacy Policy - MoMo E-Wallet
 
-**Nguồn:** https://www.momo.vn/chinh-sach-quyen-rieng-tu  
-**Công ty:** Công ty Cổ phần Dịch vụ Di động Trực tuyến (M_Service)  
+**Source:** https://www.momo.vn/chinh-sach-quyen-rieng-tu  
+**Company:** Online Mobile Services Joint Stock Company (M_Service)  
 **Hotline:** 1900 5454 41  
 **Email:** support@momo.vn  
-**Cập nhật:** 01/04/2026
+**Last Updated:** 01/04/2026
 
 ---
 
-## Phạm Vi Áp Dụng
+## Scope of Application
 
-Chính sách áp dụng đối với:
-- Cá nhân sử dụng ứng dụng MoMo và các sản phẩm, dịch vụ do MoMo trực tiếp cung cấp
-- Cá nhân truy cập website, ứng dụng hoặc các kênh giao tiếp chính thức của MoMo
-- Cá nhân có dữ liệu cá nhân được MoMo xử lý trong khuôn khổ hợp đồng dịch vụ
+This policy applies to:
+- Individuals using the MoMo application and products/services directly provided by MoMo
+- Individuals accessing MoMo's official website, application, or communication channels
+- Individuals whose personal data is processed by MoMo within the scope of a service agreement
 
-**Lưu ý:** MoMo không hướng đến người dưới 15 tuổi. Xử lý dữ liệu người chưa thành niên thực hiện thông qua người đại diện theo pháp luật.
-
----
-
-## Nguyên Tắc Xử Lý Dữ Liệu Cá Nhân
-
-- Tuân thủ quy định bảo vệ dữ liệu cá nhân
-- Tuân thủ quy định tài chính, thanh toán, phòng chống rửa tiền, an ninh mạng
-- Nguyên tắc hợp pháp, minh bạch
-- Thu thập với căn cứ rõ ràng và thông báo cho người dùng
-- Bảo đảm dữ liệu chính xác và lưu trong thời gian phù hợp
-- Áp dụng biện pháp bảo mật an toàn
+**Note:** MoMo does not target users under 15 years of age. Processing of minors' data is performed through their legal representatives.
 
 ---
 
-## Các Loại Thông Tin Thu Thập
+## Principles of Personal Data Processing
 
-- Thông tin định danh, liên lạc, tài khoản dịch vụ
-- Thông tin sinh trắc học (vân tay, khuôn mặt trên thiết bị đã đăng ký)
-- Thông tin tài chính, liên kết ngân hàng, lịch sử giao dịch
-- Thông tin vị trí, thiết bị, kỹ thuật (loại thiết bị, hệ điều hành, địa chỉ IP)
-- Thông tin cookie và công nghệ tương tự
-- Thông tin liên quan đến đăng ký hoặc sử dụng dịch vụ
-
----
-
-## Nguồn Thu Thập Dữ Liệu
-
-- Trực tiếp từ người dùng (đăng ký, giao dịch, hỗ trợ, sử dụng ứng dụng)
-- Tự động từ thiết bị và hệ thống (dữ liệu kỹ thuật, hành vi)
-- Các bên thứ ba như ngân hàng, tổ chức tín dụng, đối tác, cơ sở dữ liệu quốc gia
+- Compliance with personal data protection regulations
+- Compliance with financial, payment, anti-money laundering, and cybersecurity regulations
+- Principles of legality and transparency
+- Collection with clear grounds and notification to users
+- Ensuring data accuracy and storage for an appropriate duration
+- Application of safe security measures
 
 ---
 
-## Mục Đích Xử Lý Dữ Liệu
+## Types of Information Collected
 
-### Cung Cấp Và Vận Hành Dịch Vụ
-
-- Tạo lập, quản trị và cập nhật tài khoản
-- Xác minh, thẩm định thông tin và định danh khách hàng (KYC)
-- Xử lý giao dịch thanh toán, chuyển tiền, nạp/rút tiền
-- Quản lý quyền lợi, ưu đãi, phần thưởng, chương trình
-- Gửi thông báo SMS, OTP, email về trạng thái giao dịch
-
-### Cá Nhân Hóa Và Cải Thiện Trải Nghiệm
-
-- Cá nhân hóa nội dung, tính năng, đề xuất
-- Cải thiện chất lượng sản phẩm
-- Hỗ trợ kết nối với đối tác cung cấp dịch vụ liên kết
-
-### Phân Tích, Nghiên Cứu Và Cải Tiến Sản Phẩm
-
-- Phân tích dữ liệu, nghiên cứu thị trường
-- Khảo sát người dùng
-- Thử nghiệm và đánh giá tính năng
-- Giám sát xu hướng sử dụng
-
-### Đảm Bảo An Ninh Và Phòng Chống Gian Lận
-
-- Phát hiện, phòng ngừa gian lận, lừa đảo, truy cập trái phép
-- Quản lý rủi ro và bảo vệ an toàn hệ thống
-
-### Tuân Thủ Quy Định Pháp Luật
-
-- Đáp ứng yêu cầu cơ quan nhà nước
-- Phòng chống rửa tiền, tài trợ khủng bố
-- Kê khai thuế, kế toán
-- Lưu trữ hồ sơ
-
-### Tiếp Thị Và Quảng Bá
-
-Dựa trên sự đồng ý của người dùng, MoMo gửi thông tin chương trình khuyến mại, ưu đãi. Người dùng có thể quản lý, từ chối bất kỳ lúc nào qua ứng dụng.
+- Identification, contact, and service account information
+- Biometric information (fingerprints, facial data on registered devices)
+- Financial information, bank linkages, transaction history
+- Location, device, and technical information (device type, operating system, IP address)
+- Cookie and similar technology information
+- Information related to service registration or usage
 
 ---
 
-## Chia Sẻ Dữ Liệu
+## Sources of Data Collection
 
-MoMo chỉ chia sẻ dữ liệu trong phạm vi cần thiết và tuân thủ pháp luật với:
-
-1. Cơ quan nhà nước có thẩm quyền
-2. Đối tác cung cấp dịch vụ (ngân hàng, bảo hiểm, tài chính)
-3. Nhà cung cấp dịch vụ công nghệ (lưu trữ đám mây, phân tích dữ liệu)
-4. Cố vấn, chuyên gia, nhà thầu dịch vụ
-5. Bên phối hợp phòng chống gian lận
-
-MoMo **không** chia sẻ thông tin cho mục đích tiếp thị của bên thứ ba trừ khi được đồng ý.
+- Directly from users (registration, transactions, support, app usage)
+- Automatically from devices and systems (technical and behavioral data)
+- Third parties such as banks, credit institutions, partners, and national databases
 
 ---
 
-## Biện Pháp Bảo Mật
+## Purposes of Data Processing
 
-- Cơ chế mã hóa
-- Kiểm soát truy cập
-- Ghi nhật ký hệ thống
-- Giám sát an ninh
-- Sao lưu và khôi phục dữ liệu
-- Chứng nhận bảo mật quốc tế PCI DSS
+### Providing and Operating Services
+
+- Creating, managing, and updating accounts
+- Verifying and authenticating customer identity (KYC)
+- Processing payment transactions, money transfers, top-ups/withdrawals
+- Managing benefits, promotions, rewards, and programs
+- Sending SMS, OTP, and email notifications about transaction status
+
+### Personalization and Experience Improvement
+
+- Personalizing content, features, and recommendations
+- Improving product quality
+- Supporting connections with linked service partners
+
+### Analysis, Research, and Product Improvement
+
+- Data analysis and market research
+- User surveys
+- Feature testing and evaluation
+- Monitoring usage trends
+
+### Security and Fraud Prevention
+
+- Detecting and preventing fraud, scams, and unauthorized access
+- Risk management and system security protection
+
+### Legal Compliance
+
+- Responding to government authority requirements
+- Anti-money laundering and counter-terrorism financing
+- Tax declarations and accounting
+- Record retention
+
+### Marketing and Promotion
+
+Based on user consent, MoMo sends promotional program and offer information. Users can manage or opt out at any time via the app.
 
 ---
 
-## Quyền Của Người Dùng
+## Data Sharing
 
-- Truy cập và cập nhật dữ liệu
-- Yêu cầu cung cấp hoặc chỉnh sửa dữ liệu
-- Yêu cầu xóa dữ liệu (trong phạm vi pháp luật cho phép)
-- Rút lại sự đồng ý
-- Hạn chế hoặc phản đối xử lý
-- Các quyền khác theo pháp luật
+MoMo only shares data within necessary limits and in compliance with the law with:
+
+1. Competent state authorities
+2. Service partners (banks, insurance, finance)
+3. Technology service providers (cloud storage, data analytics)
+4. Advisors, specialists, and service contractors
+5. Parties cooperating on fraud prevention
+
+MoMo does **not** share information for third-party marketing purposes unless consent is given.
 
 ---
 
-## Liên Hệ
+## Security Measures
+
+- Encryption mechanisms
+- Access controls
+- System logging
+- Security monitoring
+- Data backup and recovery
+- International PCI DSS security certification
+
+---
+
+## User Rights
+
+- Access and update data
+- Request data provision or correction
+- Request data deletion (within the scope permitted by law)
+- Withdraw consent
+- Restrict or object to processing
+- Other rights as provided by law
+
+---
+
+## Contact
 
 - **Hotline:** 1900 5454 41
 - **Email:** support@momo.vn
-- **Tính năng:** Quản lý Dữ liệu cá nhân hoặc Trợ giúp trên ứng dụng MoMo
+- **In-app:** Personal Data Management or Help feature on MoMo app

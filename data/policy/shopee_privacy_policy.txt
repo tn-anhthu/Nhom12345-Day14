@@ -1,130 +1,130 @@
-# Chính Sách Bảo Mật - Shopee Việt Nam
+# Privacy Policy - Shopee Vietnam
 
-**Nguồn:** https://help.shopee.vn/portal/4/article/77244  
-**Công ty:** Công ty TNHH Shopee  
-**Địa chỉ:** Tầng 4-5-6 Capital Place, Hà Nội  
-**Email DPO:** dpo.vn@shopee.com
-
----
-
-## 1. Giới Thiệu
-
-Shopee cam kết bảo vệ dữ liệu cá nhân theo luật pháp Việt Nam. Chính sách này giải thích cách thu thập, sử dụng và xử lý thông tin cá nhân của người dùng (mua hàng và bán hàng).
+Source: https://help.shopee.vn/portal/4/article/77244
+Company: Shopee Vietnam Co., Ltd.
+Address: Floors 4-5-6 Capital Place, Hanoi
+DPO Email: dpo.vn@shopee.com
 
 ---
 
-## 2. Khi Nào Thu Thập Dữ Liệu
+## 1. Introduction
 
-Shopee thu thập thông tin khi:
-- Đăng ký tài khoản
-- Gửi biểu mẫu
-- Thực hiện giao dịch
-- Liên lạc qua nhiều kênh
-- Sử dụng ứng dụng
-- Chia sẻ vị trí thiết bị
-- Liên kết tài khoản mạng xã hội
+Shopee is committed to protecting personal data in accordance with Vietnamese law. This policy explains how personal information of users (buyers and sellers) is collected, used, and processed.
 
 ---
 
-## 3. Loại Dữ Liệu Thu Thập
+## 2. When Data Is Collected
 
-Bao gồm:
-- Họ tên, email, ngày sinh, địa chỉ
-- Thông tin ngân hàng
-- Số điện thoại
-- Hình ảnh/video
-- Thông tin thiết bị
-- Dữ liệu vị trí
-- Lịch sử giao dịch
+Shopee collects information when users:
+- Register an account
+- Submit forms
+- Conduct transactions
+- Communicate through various channels
+- Use the application
+- Share device location
+- Link social media accounts
 
 ---
 
-## 4. Thu Thập Dữ Liệu Tự Động
+## 3. Types of Data Collected
 
-Hệ thống ghi lại:
-- Địa chỉ IP
-- Hệ điều hành
-- Loại trình duyệt
+Includes:
+- Full name, email, date of birth, address
+- Banking information
+- Phone number
+- Images/videos
+- Device information
+- Location data
+- Transaction history
 
-Shopee sử dụng cookie để theo dõi hoạt động người dùng trên nền tảng.
+---
+
+## 4. Automatically Collected Data
+
+The system records:
+- IP address
+- Operating system
+- Browser type
+
+Shopee uses cookies to track user activity on the platform.
 
 ---
 
 ## 5. Cookies
 
-Shopee sử dụng cookie để cải thiện dịch vụ và cung cấp nội dung phù hợp. Người dùng có thể vô hiệu hóa cookie qua cài đặt trình duyệt.
+Shopee uses cookies to improve services and provide relevant content. Users can disable cookies through browser settings.
 
 ---
 
-## 6. Sử Dụng Thông Tin
+## 6. Use of Information
 
-Dữ liệu được sử dụng để:
-- Xử lý giao dịch
-- Quản lý tài khoản
-- Cải thiện dịch vụ
-- Tiếp thị
-- Đánh giá tín dụng
-- Tuân thủ pháp luật
-- Phòng chống gian lận
-- Lưu trữ sao lưu
-
----
-
-## 7. Bảo Vệ Thông Tin
-
-Shopee triển khai biện pháp bảo mật như mã hóa và hạn chế quyền truy cập nhân viên. Tuy nhiên không đảm bảo bảo mật tuyệt đối.
+Data is used to:
+- Process transactions
+- Manage accounts
+- Improve services
+- Marketing
+- Credit assessment
+- Legal compliance
+- Fraud prevention
+- Data backup
 
 ---
 
-## 8. Tiết Lộ Thông Tin
+## 7. Information Protection
 
-Dữ liệu có thể chia sẻ với:
-- Công ty liên kết
-- Nhà cung cấp dịch vụ
-- Đối tác thanh toán
-- Cơ quan chính phủ (khi luật yêu cầu)
-- Bên thứ ba khác
+Shopee implements security measures such as encryption and restricted employee access. However, absolute security cannot be guaranteed.
 
 ---
 
-## 9. Thông Tin Trẻ Em
+## 8. Disclosure of Information
 
-Dịch vụ không dành cho trẻ dưới 13 tuổi. Shopee sẽ xóa dữ liệu nếu phát hiện từ trẻ em.
-
----
-
-## 10. Thu Thập Bởi Bên Thứ Ba
-
-Shopee sử dụng Google Analytics và các ứng dụng bên thứ ba. Người dùng nên đọc chính sách riêng tư của các bên này.
-
----
-
-## 11. Loại Trừ Trách Nhiệm
-
-Shopee không chịu trách nhiệm về bảo mật trên trang web bên thứ ba được liên kết.
+Data may be shared with:
+- Affiliated companies
+- Service providers
+- Payment partners
+- Government authorities (when required by law)
+- Other third parties
 
 ---
 
-## 12. Chuyển Thông Tin Ra Nước Ngoài
+## 9. Children's Information
 
-Dữ liệu có thể chuyển, lưu trữ hoặc xử lý ở nước ngoài tuân theo pháp luật bảo vệ dữ liệu.
-
----
-
-## 13. Quyền Người Dùng
-
-Bạn có thể:
-- Rút lại sự đồng ý
-- Yêu cầu hạn chế xử lý
-- Phản đối
-- Yêu cầu cung cấp hoặc truy cập dữ liệu cá nhân
-
-Liên hệ: **dpo.vn@shopee.com**
+The service is not intended for children under 13. Shopee will delete data if discovered to originate from children.
 
 ---
 
-## 14. Liên Hệ
+## 10. Third-Party Collection
 
-Khiếu nại hoặc thắc mắc gửi đến:
-- **Địa chỉ:** Công ty TNHH Shopee, Tầng 4-5-6 Capital Place, Hà Nội
-- **Email:** dpo.vn@shopee.com
+Shopee uses Google Analytics and third-party applications. Users should read the privacy policies of these parties.
+
+---
+
+## 11. Disclaimer
+
+Shopee is not responsible for security on linked third-party websites.
+
+---
+
+## 12. International Data Transfers
+
+Data may be transferred, stored, or processed overseas in compliance with data protection laws.
+
+---
+
+## 13. User Rights
+
+You may:
+- Withdraw consent
+- Request restriction of processing
+- Object to processing
+- Request access to or provision of personal data
+
+Contact: dpo.vn@shopee.com
+
+---
+
+## 14. Contact
+
+For complaints or inquiries:
+- Address: Shopee Vietnam Co., Ltd., Floors 4-5-6 Capital Place, Hanoi
+- Email: dpo.vn@shopee.com

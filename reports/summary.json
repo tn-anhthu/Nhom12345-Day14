@@ -2,24 +2,24 @@
   "metadata": {
     "version": "Agent_V2_Optimized",
     "total": 85,
-    "timestamp": "2026-06-16 16:32:08",
-    "elapsed_s": 44.58
+    "timestamp": "2026-06-16 17:02:04",
+    "elapsed_s": 57.96
   },
   "metrics": {
-    "avg_score": 1.0176,
-    "hit_rate": 0.7065,
-    "agreement_rate": 0.1294,
-    "pass_rate": 0.0
+    "avg_score": 3.5529,
+    "hit_rate": 0.7294,
+    "agreement_rate": 0.8588,
+    "pass_rate": 0.6471
   },
   "regression": {
-    "v1_avg_score": 1.0235,
-    "delta": -0.0059
+    "v1_avg_score": 3.5765,
+    "delta": -0.0236
   },
   "cost": {
-    "total_input_tokens": 93484,
-    "total_output_tokens": 11280,
-    "estimated_cost_usd": 0.020791,
-    "cost_per_eval_usd": 6.685e-05
+    "total_input_tokens": 86535,
+    "total_output_tokens": 11770,
+    "estimated_cost_usd": 0.020042,
+    "cost_per_eval_usd": 6.959e-05
   },
   "thresholds": {
     "min_avg_score": 3.5,

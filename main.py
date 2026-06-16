@@ -37,8 +37,10 @@ class RAGEvaluator:
         retrieved_ids = response.get("metadata", {}).get("retrieved_ids", [])
 
         if retrieved_ids:
-            hit_rate = self._retrieval.calculate_hit_rate(expected_ids, retrieved_ids)
-            mrr      = self._retrieval.calculate_mrr(expected_ids, retrieved_ids)
+            hit_rate = self._retrieval.calculate_hit_rate(
+                expected_ids, retrieved_ids, top_k=len(retrieved_ids)
+            )
+            mrr = self._retrieval.calculate_mrr(expected_ids, retrieved_ids)
         else:
             difficulty = case.get("metadata", {}).get("difficulty", "medium")
             hit_rate   = self._SIM_HIT_RATE.get(difficulty, self._DEFAULT_HIT)
